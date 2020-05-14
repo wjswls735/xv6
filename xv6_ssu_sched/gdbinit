@@ -1,0 +1,1 @@
+add-auto-load-safe-path /home/jslee/xv6-ssu/xv6_ssu_syscall/.gdbinit
